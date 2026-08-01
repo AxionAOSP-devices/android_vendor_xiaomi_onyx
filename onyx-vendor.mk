@@ -3384,6 +3384,7 @@ PRODUCT_PACKAGES += \
     ims_rtp_daemon \
     imsdaemon \
     init.qcom.sensors \
+    init.qcrild \
     init.qti.kernel \
     init.qti.media \
     init.qti.qcv \
