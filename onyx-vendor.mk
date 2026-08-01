@@ -3450,7 +3450,6 @@ PRODUCT_PACKAGES += \
     vendor.xiaomi.hw.touchfeature-service \
     vendor.xiaomi.sensor.citsensorservice.aidl \
     mlipayd \
-    touch_report_debug \
     toucheventcheck
 
 PRODUCT_PACKAGES += \
